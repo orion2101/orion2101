@@ -5,6 +5,7 @@
 - 📫 How to reach me: rngouyamsa000@hotmail.com
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=orion2101&layout=compact)
+![Orion2101's github stats](https://github-readme-stats.vercel.app/api?username=orion2101&count_private=true&show_icons=true)
 
 <!---
 orion2101/orion2101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
